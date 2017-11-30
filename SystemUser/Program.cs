@@ -156,6 +156,7 @@ namespace SystemUser
                                     break;
 
                                 case 5:
+                                    isPasswordOk = true;
                                     Console.WriteLine("Введите ваш пароль ");
                                    passwordUser = Console.ReadLine();
                                     if (passwordUser.Length == 0)
