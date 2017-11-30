@@ -1,0 +1,17 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\obj\Debug\SystemUser.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\SystemUser.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\SystemUser.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\SystemUser.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\Enternace.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\Newtonsoft.Json.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\Twilio.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\Enternace.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\Newtonsoft.Json.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\bin\Debug\Twilio.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\obj\Debug\SystemUser.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\SystemUser\SystemUser\obj\Debug\SystemUser.pdb
